@@ -477,9 +477,9 @@ footer .list.small {
 /*medium screen*/
 
 @media (min-width: 992px) and (max-width: 1199px) {
-    p {
+    /* p {
         color: #e50914 !important;
-    }
+    } */
     .card-0,
     .card-1,
     .card-2,
@@ -517,9 +517,9 @@ footer .list.small {
 /*small screen**/
 
 @media (min-width:768px) and (max-width:991px) {
-    p {
+    /* p {
         color: #092ae5 !important;
-    }
+    } */
     #header .description {
         height: 80vh;
     }
@@ -653,9 +653,9 @@ footer .list.small {
 /*extra-smal screen**/
 
 @media (max-width:767px) {
-    p {
+    /* p {
         color: #35e509 !important;
-    }
+    } */
     nav .logo img {
         width: 100px;
     }
@@ -675,30 +675,6 @@ footer .list.small {
     #header .description p.second {
         font-size: 16px;
     }
-    /* #header .description #button {
-        display: flex;
-        flex-direction: column;
-    }
-    #header .description #button input {
-        width: 80%;
-        margin: auto;
-    }
-    #header .description #button span {
-        display: none;
-    }
-    .description .button {
-        display: contents;
-    }
-    .mb-3 {
-        margin-bottom: 35px !important;
-    }
-    .description .button span {
-        padding: 15px;
-        text-align: center;
-        border: #e50914 solid 2px;
-        background-color: #e50914;
-        border-radius: 10px;
-    } */
     #button {
         display: flex;
         flex-direction: column;
