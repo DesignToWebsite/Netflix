@@ -104,6 +104,10 @@ nav .button ul li.inscription {
     font-size: 25px;
 }
 
+#header nav .button {
+    display: block;
+}
+
 #header .description #button input {
     padding: 20px;
 }
