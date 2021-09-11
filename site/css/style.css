@@ -325,6 +325,10 @@
         .downlowd .button img {
             width: 40px;
         }
+        
+        .downlowd .button {
+            display: block;
+        }
         /*end card*/
         /*question*/
         
