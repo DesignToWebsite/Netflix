@@ -361,10 +361,6 @@
             background-image: none;
             content: '+';
             color: white;
-            position: absolute;
-            top: 50%;
-            right: 20px;
-            transform: translateY(-50%);
         }
         
         .accordion-button:not(.collapsed)::after {
