@@ -122,9 +122,7 @@
             font-size: 20px;
             border-radius: 0;
         }
-        /* .description .button {
-    display: none;
-} */
+        
         
         .button {
             display: none;
@@ -772,7 +770,7 @@
             /*end footer*/
         }
         
-        @media (max-width:500px) {
+        @media (max-width:499px) {
             /*card*/
             .card-0,
             .card-1,
@@ -804,7 +802,7 @@
             }
             .card-3 video {
                 position: relative;
-                top: -245px;
+                top: -231px;
                 left: 1px;
                 width: 231px;
                 height: 250px;
